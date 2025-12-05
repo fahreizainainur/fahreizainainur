@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Fahreizain
 
-<!--
-**fahreizainainur/fahreizainainur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Automation & Maintenance Engineer | IoT & Embedded Systems Enthusiast | Tech Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🔧 Fokus pada engineering & pengembangan sistem otomatisasi  
+- 🤖 Suka eksperimen dengan ESP32, sensor, dan project AI  
+- 📘 Sedang mengembangkan media pembelajaran & berbagai project kampus  
+- 🎯 Tujuan: membangun project open-source untuk membantu orang lain
+
+---
+
+## 🛠️ Tech Stack
+**Languages:**  
+`C/C++` · `Python` · `JavaScript`  
+
+**Hardware & Tools:**  
+ESP32 · Raspberry Pi · Arduino · PLC
+
+**Software:**  
+VS Code · PlatformIO · Git · ROS · Omron
+
+---
+
+## 📫 How to Reach Me
+📧 Email: **fahreizainainur@gmail.com**  
+🌐 Instagram: **@fhreizainn_**
+
+---
+
+✨ *Thanks for visiting my profile!*
