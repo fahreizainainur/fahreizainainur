@@ -1,13 +1,10 @@
-<h1 align="center">Halo, Saya Fahreizain 👋</h1>
+<div align="center">
 
-<h3 align="center">Industrial Automation Engineer</h3>
-<h5 align="center">IoT, PLC & Robotics Systems Enthusiast</h5>
+# Halo, Saya Fahreizain 👋  
+### Industrial Automation Engineer  
+#### IoT, PLC & Robotics Systems Enthusiast  
 
----
-
-## 📫 How to Reach Me
-📧 Email: **fahreizainainur@gmail.com**  
-🌐 Instagram: **@fhreizainn_**
+</div>
 
 ---
 
