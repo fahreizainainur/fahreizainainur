@@ -1,6 +1,7 @@
-# Hi 👋, I'm Fahreizain
+<h1 align="center">Halo, Saya Fahreizain 👋</h1>
 
-### 🚀 Automation & Maintenance Engineer | IoT, PLC & Robotics Systems Enthusiast
+<h3 align="center">Industrial Automation Engineer</h3>
+<h5 align="center">IoT, PLC & Robotics Systems Enthusiast</h5>
 
 ---
 
